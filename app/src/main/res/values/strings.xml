@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTribal</string>
+    <string name="created_at">Created_at:</string>
+    <string name="updated_at">Updated_at:</string>
+    <string name="id">ID:</string>
+    <string name="value">Value:</string>
+</resources>
